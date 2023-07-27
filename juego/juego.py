@@ -2,7 +2,6 @@ import pygame
 from tkinter import messagebox as mb
 import random
 
-print('Tinger y el Estambre')
 
 class Juego:
     puntuacion = 0  # Puntuación del jugador

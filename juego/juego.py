@@ -4,6 +4,7 @@ import random
 
 print("Tinger y el Estambre. v2023.07.26. EduardoProfe")
 
+
 class Juego:
     puntuacion = 0  # Puntuación del jugador
     velocidad_estambre = []  # Velocidad en x e y del estambre

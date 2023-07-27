@@ -9,7 +9,7 @@ inferior de la pantalla para evitar que la bola de estambre caiga en dicho lugar
 
 ### Descarga 🐱💻
 
-Para descargar el juego simplemente ingresa a https://github.com/ . Para ejecutarlo simplemente abre el
+Para descargar el juego simplemente ingresa a https://github.com/EduardoProfe666/Proyecto-Tinger-y-el-Estambre/releases/latest . Para ejecutarlo simplemente abre el
 fichero `Tinger y el Estambre.exe` y disfruta 🐱🐉.
 
 ### Controles 🐱🚀

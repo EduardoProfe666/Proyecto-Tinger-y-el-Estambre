@@ -22,8 +22,8 @@ Para mover a <b>Tinger, el gato primordial</b> 🐱👤 se usan los siguientes c
 ### Testers 🐱💻
 
 Los `testers` actuales son:
-- @LilyRosa
-- @YankielYong
+- (Lilian Rojas)[@LilyRosa]
+- (Yankiel Yong)[@YankielYong]
 
 ### Capturas de Pantalla 😼
 
